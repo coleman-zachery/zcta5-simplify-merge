@@ -9,5 +9,5 @@ Process, simplify, and merge 5-digit ZIP Code Tabulation Area (ZCTA5) GeoJSON da
 ![simplified and merged geometry](merged_geometry.png)  
 
 # References  
-[State Zip Code GeoJSON by ___](https://github.com/OpenDataDE/State-zip-code-GeoJSON)  
-[US Maps by ___](https://github.com/jgoodall/us-maps)  
+["State Zip Code GeoJSON" by Open Data Delaware](https://github.com/OpenDataDE/State-zip-code-GeoJSON)  
+["US Maps" by John Goodall](https://github.com/jgoodall/us-maps)  
